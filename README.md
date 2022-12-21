@@ -1,4 +1,4 @@
-Note Application
+# Note Application
 
 Introduction: this is a fun app. Please suggest and add new things. (will check for commits)
 WORKING IN PROGRESS. WILL BE EDITED.
@@ -6,12 +6,12 @@ WORKING IN PROGRESS. WILL BE EDITED.
 
 The most important aspect in the Note Application is to not lose our rythm and keep track of our current tasks.
 
-Aim of this app is to make an APP that has all the following :
+## Aim of this app is to make an APP that has all the following :
 1. TO DO list (this is major)
 2. diary function
 3. Note application
 
-# Wire framing IMP in DESC
+## Wire framing IMP in DESC
 
 Most important! : What i have to do , TODAY.
 
@@ -39,11 +39,11 @@ important less 10: drawing. i dont find IMG and drawing as important, however, f
 
 
 
-# key note
+## key note
 This is a TO DO list app. the key aspect is that it is CUSTOMIZABLE by the USER and easily moved to different categories.
 
 
 
 
-# UI 
+## UI 
 eg) 20*20 memo box. when this is clicked for long time, there may be a half circle shaped calender and it will spin like a lock and when i press on the center of its lock, i can select other specific dates.
