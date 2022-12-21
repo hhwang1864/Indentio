@@ -11,7 +11,7 @@ Aim of this app is to make an APP that has all the following :
 2. diary function
 3. Note application
 
-# Wire framing 중요순 DESC
+# Wire framing IMP in DESC
 
 Most important! : What i have to do , TODAY.
 
