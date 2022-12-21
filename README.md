@@ -47,3 +47,13 @@ This is a TO DO list app. the key aspect is that it is CUSTOMIZABLE by the USER 
 
 ## UI 
 eg) 20*20 memo box. when this is clicked for long time, there may be a half circle shaped calender and it will spin like a lock and when i press on the center of its lock, i can select other specific dates.
+
+## ADD notes
+I want to implement and app where you down download packages (like NPM or gem file) where users can chare their customizable layout.
+
+EG. layout for Groceries. 
+columns with what to buy what is on sale
+input budget.
+bottles, cups, grams auto finish words. 
+
+essentially making a framework for our modules.
